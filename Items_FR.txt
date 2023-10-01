@@ -1,0 +1,13 @@
+Items_FR = {
+	DisplayNameTactical_Knife = "Couteau tactique",
+	DisplayNameKnife_Sheath_Back = "Étui à couteau (Derrière)",
+	DisplayNameKnife_Sheath_Leg = "Étui à couteau (Cuisse)",
+	DisplayNameKnife_Sheath_Tactical_Back = "Étui à couteau tactique (Derrière)",
+	DisplayNameKnife_Sheath_Tactical_Leg = "Étui à couteau tactique (Cuisse)",
+	DisplayNameKatana_Sheath = "Fourreau (Katana)",
+	DisplayNameKatana_Sheath_Red = "Fourreau Rouge (Katana)",
+	DisplayNameKatana_Sheath_White = "Fourreau Blanc (Katana)",
+	DisplayNameKatana_Sheath_Black = "Fourreau Noir (Katana)",
+	DisplayNameKatana_Sheath_Blue = "Fourreau Bleu (Katana)",
+	DisplayNameKatana_Sheath_Green = "Fourreau Vert (Katana)",
+}
