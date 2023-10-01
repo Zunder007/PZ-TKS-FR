@@ -6,5 +6,7 @@ Recipe_FR = {
 	Recipe_Paint_Katana_Sheath_Blue = "Peindre le fourreau à Katana en Bleu",	
 	Recipe_Paint_Katana_Sheath_Black = "Peindre le fourreau à Katana en Noir",	
 	Recipe_Paint_Katana_Sheath_White = "Peindre le fourreau à Katana en Blanc",
-	Recipe_Wash_Off_the_Paint = "Enlever la peinture",	
+	Recipe_Wash_Off_the_Paint = "Enlever la peinture",
+
+	Recipe_Katana_for_Sheath = "Katana pour fourreau",
 }
