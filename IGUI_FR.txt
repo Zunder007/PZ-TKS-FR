@@ -1,0 +1,5 @@
+IGUI_FR = {
+	IGUI_HotbarAttachment_KnifeSheathLeg = "Étui (Cuisse)",
+	IGUI_HotbarAttachment_KnifeSheathBack = "Étui (Derrière)",
+	IGUI_HotbarAttachment_KatanaSheath = "Fourreau (Katana)",
+}
