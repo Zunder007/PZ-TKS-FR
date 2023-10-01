@@ -1,0 +1,10 @@
+Recipe_FR = {
+	Recipe_Make_Knife_Sheath = "Fabriquer un étui à couteau",
+	Recipe_Make_Katana_Sheath = "Fabriquer un fourreau à Katana",
+	Recipe_Paint_Katana_Sheath_Green = "Peindre le fourreau à Katana en Vert",
+	Recipe_Paint_Katana_Sheath_Red = "Peindre le fourreau à Katana en Rouge",	
+	Recipe_Paint_Katana_Sheath_Blue = "Peindre le fourreau à Katana en Bleu",	
+	Recipe_Paint_Katana_Sheath_Black = "Peindre le fourreau à Katana en Noir",	
+	Recipe_Paint_Katana_Sheath_White = "Peindre le fourreau à Katana en Blanc",
+	Recipe_Wash_Off_the_Paint = "Enlever la peinture",	
+}
