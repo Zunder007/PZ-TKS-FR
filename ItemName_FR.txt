@@ -1,3 +1,15 @@
 ItemName_FR = {
 	ItemName_Base.KatanaFSheath = "Katana (Fourreau)",
+
+	ItemName_Base.KatanaSheath = "Fourreau (Katana)",
+	ItemName_Base.KatanaSheathBlack = "Fourreau Noir (Katana)",
+	ItemName_Base.KatanaSheathBlue = "Fourreau Bleu (Katana)",
+	ItemName_Base.KatanaSheathGreen = "Fourreau Vert (Katana)",
+	ItemName_Base.KatanaSheathRed = "Fourreau Rouge (Katana)",
+	ItemName_Base.KatanaSheathWhite = "Fourreau Blanc (Katana)",
+	ItemName_Base.KnifeSheathBack = "Étui à couteau (Derrière)",
+	ItemName_Base.KnifeSheathLeg = "Étui à couteau (Cuisse)",
+	ItemName_Base.KnifeSheathTacticalBack = "Étui à couteau tactique (Derrière)",
+	ItemName_Base.KnifeSheathTacticalLeg = "Étui à couteau tactique (Cuisse)",
+	ItemName_TKS.TacticalKnife = "Couteau tactique",
 }
