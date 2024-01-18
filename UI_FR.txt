@@ -1,0 +1,5 @@
+UI_FR = {
+	UI_ClothingType_KnifeSheathLeg = "Étui à couteau",
+	UI_ClothingType_KnifeSheathBack = "Étui à couteau (Derrière)",
+	UI_ClothingType_KatanaSheath = "Fourreau",
+}
